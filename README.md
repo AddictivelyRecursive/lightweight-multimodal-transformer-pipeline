@@ -21,7 +21,7 @@ The models were rigorously trained and evaluated on two distinct datasets to ens
     * *Note: Detailed class lists and attribute taxonomies are available at the link above.*
 * **Pooled Large-Scale Dataset:** A massive aggregation of over **11,000+ images** used to pre-train and stabilize the model weights (proprietary/unreleased).
 
-## 📂 Repository Structure
+## Repository Structure
 
 | Directory | Description |
 | :--- | :--- |
