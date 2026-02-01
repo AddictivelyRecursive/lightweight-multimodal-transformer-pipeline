@@ -1,6 +1,6 @@
 # Lightweight Multimodal Transformer Pipeline
 
-This repository provides a comprehensive pipeline for building a high-performance, resource-efficient image understanding system. By fine-tuning state-of-the-art **lightweight Vision Transformers (ViTs)**—specifically **MobileViT** and **DeiT-Tiny**—this project bridges the gap between accuracy and computational efficiency.
+This repository provides a comprehensive pipeline for building a high-performance, resource-efficient image understanding system. By fine-tuning state-of-the-art **lightweight Vision Transformers (ViTs)**-specifically **MobileViT** and **DeiT-Tiny**-this project bridges the gap between accuracy and computational efficiency.
 
 The resulting system goes beyond simple classification, offering a multi-faceted approach to image understanding including attribute prediction and cross-modal retrieval.
 
