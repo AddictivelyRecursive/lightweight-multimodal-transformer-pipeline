@@ -26,6 +26,7 @@ The models were rigorously trained and evaluated on two distinct datasets to ens
 | Directory | Description |
 | :--- | :--- |
 | **`./checkpoints`** | **Pre-trained Weights:** Download and use the trained model checkpoints directly for inference without re-training. |
+| **`./assets`** | **Visual Results & Analysis**: Sample images illustrating classification outputs and attribute predictions on the validation set, along with embedding-space visualizations.|
 | **`./notebooks`** | **Training Pipeline:** Complete Jupyter notebooks for fine-tuning MobileViT and DeiT-Tiny. Includes data loading, augmentation strategies, training loops, and hyperparameter configurations. |
 | **`./interface.ipynb`** | **Inference Demo:** A user-friendly, interactive interface for testing the classification model on new images. |
 
